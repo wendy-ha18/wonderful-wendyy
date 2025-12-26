@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://wonderful-wendyy.github.io/sitemap.xml
+Sitemap: https://wendy-ha18.github.io/sitemap.xml
